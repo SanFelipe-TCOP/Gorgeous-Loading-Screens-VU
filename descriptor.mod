@@ -3,5 +3,5 @@ tags={
 	"Loading Screen"
 }
 name="Gorgeous Loading Screens VU"
-supported_version="1.31.5"
+supported_version="1.31.6"
 remote_file_id="2579340136"
